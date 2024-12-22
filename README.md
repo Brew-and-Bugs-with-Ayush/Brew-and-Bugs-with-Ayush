@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/codexayush" target="blank"><img src="https://img.shields.io/twitter/follow/codexayush?logo=twitter&style=for-the-badge" alt="codexayush" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development and AI/ML**
+- 🌱 I’m currently learning **Enterprise application development**
 
-- 🤝 I’m looking for help with **Deploying all my projects publicly**
+- 🤝 I’m looking for help with **Collaborating on a Project**
 
-- 💬 Ask me about **JAVA,HTML,CSS and computer fundamentals**
+- 💬 Ask me about **JAVA,HTML,CSS,computer fundamentals and Springboot**
 
 - 📫 How to reach me **nishaayushgupta22@gmail.com**
 
