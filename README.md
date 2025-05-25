@@ -1,29 +1,90 @@
-# 💫 About Me:
-🚀 About Me<br>Hey there! 👋 I'm a passionate developer on a journey to master Java Core & Spring Boot 💻 and learning React as Frontend to complement the Backend. My current mission? Integrating AI/ML 🤖 into my projects to make them smarter and more efficient!<br><br>🌟 What I’m Learning & Building:<br>🔹 Backend Development with Java & Spring Boot 🛠️<br>🔹 Frontend Magic with React and JS libraries ✨<br>🔹 AI & Machine Learning to bring intelligence into apps 🤯<br>🔹 Open-Source & Project Collaboration – Let’s innovate together! 🤝<br><br>💡 I love turning ideas into reality and am always eager to collaborate on exciting projects. If you’re working on something cool, let’s connect and create something awesome! 🚀<br><br>📬 Let’s Connect! 👉
+# 🌌 Ayush Gupta
 
+**From Backend Logic to AI Magic** | Java & React Developer from India | Building Scalable Full-Stack Solutions with Passion
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agvoyage.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-gupta004) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/GlamWellGuru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CodeXAyush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishaayushgupta22@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeXayush79&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeXayush79&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXayush79&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeXayush79&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+> "Code is like poetry; when crafted with care, it can move mountains and spark innovation." 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeXayush79&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AyushGupta203) 
+## 👨‍💻 About Me
+- 🌱 **Currently mastering**: Docker, Cloud Technologies, React, and Full-Stack Development to craft robust, scalable applications.
+- 💬 **Ask me about**: Spring Boot, Java, Python, AI Integration, or any tech challenge!
+- 📫 **Reach me at**: [ayushgupta.Codex@gmail.com](mailto:ayushgupta.Codex@gmail.com)
+- ⚡ **Fun fact**: I have deeper conversations with AI than most group chats—it never leaves me on read! 😎
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🌟 Most Used Languages
+- **React ⚛️**: Crafting dynamic, responsive front-end interfaces with modern JavaScript.
+- **Spring Boot 🌸**: Building robust, scalable backend applications with seamless integration.
+- **Java ☕**: Powering versatile and high-performance backend logic.
+-  **AI 🤖**: Integrating intelligent solutions in websites.
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/codexayush" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-gupta004" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" title="AWS"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45" title="Bootstrap"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" title="CSS3"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" title="Docker"/></a>
+  <a href="https://www.framer.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="45" height="45" title="Framer"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" title="Git"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" title="HTML5"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" title="Java"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" title="Kubernetes"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" title="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" title="Node.js"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45" title="OpenCV"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" title="Pandas"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" title="Postman"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" title="React"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45" title="Spring"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45" title="Tailwind CSS"/></a>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codexayush79&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codexayush79&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexayush79&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+---
+
+## ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/codexayush04">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
+**Thanks for visiting my profile! Let's code something extraordinary together!** 🌟
