@@ -1,8 +1,11 @@
-# 🌌 Ayush Gupta
+# 🌠 Ayush Gupta
 
 **From Backend Logic to AI Magic** | Java & React Developer from India | Building Scalable Full-Stack Solutions with Passion
 
-> "Code is like poetry; when crafted with care, it can move mountains and spark innovation." 🚀
+---
+
+## 💡 Quote By Me
+> "Weaving code and AI into solutions that don’t just solve problems—they redefine what’s possible."  
 
 ---
 
