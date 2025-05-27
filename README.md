@@ -5,7 +5,7 @@
 ---
 
 ## 💡 Quote By Me
-> "Weaving code and AI into solutions that don’t just solve problems—they redefine what’s possible."  
+> "I develop great features — usually after muttering ‘why is this not working?’ about 69 times."  
 
 ---
 
@@ -56,25 +56,13 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" title="Postman"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" title="React"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45" title="Spring"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45" title="Spring"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45" title="Tailwind CSS"/></a>
 </p>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codexayush79&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexayush79&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexayush79&theme=gruvbox" alt="GitHub Streak" />
 </p>
