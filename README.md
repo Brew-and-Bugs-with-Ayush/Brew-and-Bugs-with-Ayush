@@ -4,11 +4,6 @@
 
 ---
 
-## 💡 Quote By Me
-> "I develop great features — usually after muttering ‘why is this not working?’ about 69 times."  
-
----
-
 ## 👨‍💻 About Me
 - 🌱 **Currently mastering**: Docker, Cloud Technologies, React, and Full-Stack Development to craft robust, scalable applications.
 - 💬 **Ask me about**: Spring Boot, Java, Python, AI Integration, or any tech challenge!
@@ -66,6 +61,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexayush79&theme=gruvbox" alt="GitHub Streak" />
 </p>
+
+---
+
+## 💡 Quote By Me
+ "I develop great features — usually after muttering ‘why is this not working?’ about 69 times."  
 
 ---
 
