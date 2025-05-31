@@ -1,4 +1,9 @@
-# 🌠 Ayush Gupta
+# 🌠 Ayush Gupta       
+
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/493221f0-ea16-47d2-8f49-9c9d434d535a"/>
+</div>
+---
 
 **From Backend Logic to AI Magic** | Java & React Developer from India | Building Scalable Full-Stack Solutions with Passion
 
@@ -68,6 +73,7 @@
  "I develop great features — usually after muttering ‘why is this not working?’ about 69 times."  
 
 ---
+
 
 ## ☕ Support Me
 <p align="center">
