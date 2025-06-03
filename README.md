@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexayush79&theme=gruvbox" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexayush0410&" alt="codexayush0410" />
 </p> 
 
 ---
