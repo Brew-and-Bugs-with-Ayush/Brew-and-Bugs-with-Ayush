@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexayush0410&" alt="codexayush0410" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brew-and-Bugs-with-Ayush&" alt="codexayush0410" />
 </p> 
 
 ---
