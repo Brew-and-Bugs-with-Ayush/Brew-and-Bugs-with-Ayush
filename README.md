@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - 🌱 **Currently mastering**: Docker, Cloud Technologies, React, and Full-Stack Development to craft robust, scalable applications.
-- 💬 **Ask me about**: Spring Boot, Java, Python, AI Integration, or any tech challenge!
+- 💬 **Ask me about**: Spring Boot, Java, AI Integration, or any tech challenge related to these tech!
 - 📫 **Reach me at**: [ayushgupta.Codex@gmail.com](mailto:ayushgupta.Codex@gmail.com)
 - ⚡ **Fun fact**: I have deeper conversations with AI than most group chats—it never leaves me on read! 😎
 
