@@ -26,7 +26,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/codexayush" target="_blank">
+  <a href="https://twitter.com/Brew_Bugs_Ayush" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
   </a>
   <a href="https://linkedin.com/in/ayush-gupta004" target="_blank">
