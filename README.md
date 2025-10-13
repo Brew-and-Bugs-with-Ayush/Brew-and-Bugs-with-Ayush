@@ -1,4 +1,4 @@
-# Ayush Gupta       
+# ✨ Ayush Gupta       
 
 <div align="center">
   <img height="200" alt = "coding" src="https://github.com/user-attachments/assets/493221f0-ea16-47d2-8f49-9c9d434d535a" />
