@@ -1,28 +1,40 @@
-<h1 align="center">⚡ Ayush Gupta | Brew-and-Bugs-with-Ayush ⚡</h1>
-
 <p align="center">
-  <img height="260" src="https://github.com/user-attachments/assets/ab12c5cd-5e77-4b3f-9a80-1f8c4bb9b99a" alt="Ayush Banner">
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c5de1192-70fa-4732-bfe9-09e99ae4eb9e" alt="Ayush Banner" />
 </p>
 
-<p align="center">
-  From Backend Logic to AI Magic | Java & React Developer from India | Building Scalable Backend with integrated AI solution with passion !
-</p>
+<h3 align="center">
+  🚀 From Backend Logic to AI Magic | Java & React Developer from India | Building Scalable Backends & Integrating AI Solutions with Passion!
+</h3>
 
 ---
 
-## 🚀 Portfolio
+## 🌐 Socials:
+
+<div align="center">
 <p align="center">
-  <a href="https://ayushbrewfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://linkedin.com/in/ayush-gupta004">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" style="border-radius:50%;" />
   </a>
+  
+  <a href="mailto:ayushgupta.Codex@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" style="border-radius:50%;" />
+  </a>
+
+ <a href="https://medium.com/@ayushgupta.codex">
+  <img src="https://cdn.simpleicons.org/medium/ffffff" 
+       width="55" height="55" 
+       style="background:#12100E; border-radius:50%; padding:10px;" />
+</a>
 </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔥 **Focused on:** Spring Boot, Java, Microservices & AI × Web Integrations  
-- 🌱 **Learning:** Docker, Kubernetes, AWS, CI/CD Pipelines  
+- 🌱 **Learning:** AWS , Kubernetes , System Design and more about AI  
+- 🌐 **Portfolio:** <a href="https://ayushbrewfolio.netlify.app" target="_blank">ayushbrewfolio.netlify.app</a>  
 - 📬 **Reach me:** <a href="mailto:ayushgupta.Codex@gmail.com">ayushgupta.Codex@gmail.com</a>  
 - 😎 **Fun fact:** My debugging skill increases 200% after coffee and 300% after rage.  
 
@@ -79,20 +91,19 @@
 </div>
 ---
 
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brew-and-Bugs-with-Ayush&" alt="Brew-and-Bugs-with-Ayush" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brew-and-Bugs-with-Ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Brew-and-Bugs-with-Ayush&theme=tokyonight&hide_border=false" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brew-and-Bugs-with-Ayush&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brew-and-Bugs-with-Ayush&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Brew-and-Bugs-with-Ayush&theme=flag-india&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Brew-and-Bugs-with-Ayush&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=Brew-and-Bugs-with-Ayush&icon=4&color=3)](https://visitcount.itsvg.in)
 
