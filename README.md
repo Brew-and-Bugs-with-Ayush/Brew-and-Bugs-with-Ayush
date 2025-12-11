@@ -1,104 +1,82 @@
-# ✨ Ayush Gupta       
+<h1 align="center">⚡ Ayush Gupta | Brew-and-Bugs-with-Ayush ⚡</h1>
 
-<div align="center">
-  <img height="200" alt = "coding" src="https://github.com/user-attachments/assets/493221f0-ea16-47d2-8f49-9c9d434d535a" />
-</div>
+<p align="center">
+  <img height="260" src="https://github.com/user-attachments/assets/ab12c5cd-5e77-4b3f-9a80-1f8c4bb9b99a" alt="Ayush Banner">
+</p>
 
-**From Backend Logic to AI Magic** | Java & React Developer from India | Building Scalable Backend with integrated AI solution with passion !
+<p align="center">
+  From Backend Logic to AI Magic | Java & React Developer from India | Building Scalable Backend with integrated AI solution with passion !
+</p>
+
+---
+
+## 🚀 Portfolio
+<p align="center">
+  <a href="https://ayushbrewfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 **Currently mastering**:Cloud Technologies, DevOps, and React to build scalable, production-grade applications.
-- 💬 **Ask me about**: Spring Boot, Java, AI Integration, or any tech challenge related to these tech!
-- 📫 **Reach me at**: [ayushgupta.Codex@gmail.com](mailto:ayushgupta.Codex@gmail.com)
-- ⚡ **Fun fact**: I have deeper conversations with AI than most group chats—it never leaves me on read! 😎
+
+- 🔥 **Focused on:** Spring Boot, Java, Microservices & AI × Web Integrations  
+- 🌱 **Learning:** Docker, Kubernetes, AWS, CI/CD Pipelines  
+- 📬 **Reach me:** <a href="mailto:ayushgupta.Codex@gmail.com">ayushgupta.Codex@gmail.com</a>  
+- 😎 **Fun fact:** My debugging skill increases 200% after coffee and 300% after rage.  
 
 ---
 
-## 🌟 Most Used Languages
-- **Java ☕**: Powering versatile and high-performance backend logic.
-- **Spring Boot 🌸**: Building robust, scalable backend applications with seamless integration.
--  **AI 🤖**: Integrating intelligent solutions in websites.
-- **React ⚛️**: Crafting dynamic, responsive front-end interfaces with modern JavaScript.
+# 🧬 Tech Universe
+
+<div align="center">
+
+# 💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,python,html,css" />
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/Brew_Bugs_Ayush" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ayush-gupta004" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+# 🖥️ Backend & Java Ecosystem  
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />  
+<br/>
+<img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=grpc&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens">
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000">
 
 ---
 
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+# 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,vite" />
+<br/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white">
 
-### ⚛️ Frontend Frameworks & UI
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" />
-</p>
+---
 
-### 🖥️ Backend & Java Ecosystem
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-</p>
+# 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+---
 
-### ☁️ Cloud & Deployment
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-   <img src="https://img.shields.io/badge/Kompose-%23F1502F.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Kompose" />
-</p>
+# ☁️ Cloud, DevOps & Deployment  
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify" />  
+<br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/Kompose-F1502F?style=for-the-badge&logo=docker&logoColor=white">
 
-### 🛠️ Tools & CI/CD
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white" alt="SonarLint" />
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
-</p>
+---
 
-### 📡 Messaging & Streaming
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka" />
-</p>
+# 🔧 Tools & Workflow  
+<img src="https://skillicons.dev/icons?i=git,github,postman" />  
+<img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white">
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
 
+---
+
+# 📡 Messaging & Streaming  
+<img src="https://skillicons.dev/icons?i=kafka" />
+
+</div>
 ---
 
 ## 📊 GitHub Stats
@@ -120,18 +98,18 @@
 
 ---
 
-## 💡 Quote By Me
- "I develop great features — usually after muttering ‘why is this not working?’ about 69 times."  
+# 💬 My Quote  
+> **"I build great features — usually after whispering ‘why is this not working?’ exactly 69 times."**
 
 ---
 
-## ☕ Support Me
+# ☕ Support My Work
 <p align="center">
   <a href="https://www.buymeacoffee.com/codexayush04">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" />
   </a>
 </p>
 
 ---
 
-**Thanks for visiting my profile! Let's code something extraordinary together!** 🌟
+<h3 align="center">✨ Thanks for stopping by — let's build something legendary! ✨</h3>
