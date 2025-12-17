@@ -61,7 +61,6 @@
 # 🎨 Frontend  
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,vite" />
 <br/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white">
 
 ---
 
