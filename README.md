@@ -1,6 +1,8 @@
+<div align="center">
 <p align="center">
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c5de1192-70fa-4732-bfe9-09e99ae4eb9e" alt="Ayush Banner" />
 </p>
+</div>
 
 <h3 align="center">
   🚀 From Backend Logic to AI Magic | Java & React Developer from India | Building Scalable Backends & Integrating AI Solutions with Passion!
@@ -59,7 +61,7 @@
 ---
 
 # 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 <br/>
 
 ---
