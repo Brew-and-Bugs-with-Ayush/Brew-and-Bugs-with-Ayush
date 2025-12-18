@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 **Focused on:** Spring Boot, Java, Microservices & AI × Web Integrations  
+- 🔥 **Focused on:** Spring Boot, Java, Microservices, AI × Web Integrations & Data Structures and Algorithms 
 - 🌱 **Learning:** AWS , Kubernetes , System Design and more about AI  
 - 🌐 **Portfolio:** <a href="https://ayushbrewfolio.netlify.app" target="_blank">ayushbrewfolio.netlify.app</a>  
 - 📬 **Reach me:** <a href="mailto:ayushgupta.Codex@gmail.com">ayushgupta.Codex@gmail.com</a>  
