@@ -18,7 +18,7 @@
 ```java
 @Component
 @Profile("production")
-public class BackendArchitect {
+public class BackendEngineer {
     
     @Value("${engineer.name}")
     private String name = "Ayush Gupta";
