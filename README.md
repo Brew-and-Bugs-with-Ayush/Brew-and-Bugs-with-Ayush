@@ -62,7 +62,7 @@ public class BackendEngineer {
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://ayushbrewfolio.netlify.app">
+<a href="https://brew-ayush-and-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="34"/>
 </a>
 &nbsp;&nbsp;&nbsp;
